@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pankajmehla_hr" target="blank"><img src="https://img.shields.io/twitter/follow/pankajmehla_hr?logo=twitter&style=for-the-badge" alt="pankajmehla_hr" /></a> </p>
 
-- 🔭 I’m currently working on [pankajmehla.me](https://pankajmehla.me)
+- 🔭 My personal website is [www.pankajmehla.in](https://pankajmehla.in)
 
 - 🌱 I’m currently learning **C++, Cloud Computing, Python**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linkedin.com/in/pkmhr](https://linkedin.com/in/pkmhr)
 
-- 📝 I regularly write articles on [https://blog.pankajmehla.me](https://blog.pankajmehla.me)
+- 📝 I regularly write articles on [https://blog.pankajmehla.in](https://blog.pankajmehla.in)
 
 - 💬 Ask me about **AWS,Wordpress, Hosting**
 
