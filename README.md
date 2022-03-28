@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **C++, Cloud Computing, Python**
 
-- 🤝 I’m looking for help with [TESTLAB](https://target40.cf)
+- 🤝 I’m looking for help with [TESTLAB](https://pankajmehla.me)
 
 - 👨‍💻 All of my projects are available at [https://linkedin.com/in/pkmhr](https://linkedin.com/in/pkmhr)
 
-- 📝 I regularly write articles on [https://blog.pankajmehla.in](https://blog.pankajmehla.in)
+- 📝 I regularly write articles on [https://pankajmehla.in](https://blog.pankajmehla.in/blog)
 
 - 💬 Ask me about **AWS,Wordpress, Hosting**
 
-- 📫 How to reach me **info@pankajmehla.me**
+- 📫 How to reach me **info@pankajmehla.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
