@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linkedin.com/in/pkmhr](https://linkedin.com/in/pkmhr)
 
-- 📝 I regularly write articles on [https://pankajmehla.in](https://blog.pankajmehla.in/blog)
+- 📝 I regularly write articles on [https://pankajmehla.in](https://pankajmehla.in/blog)
 
 - 💬 Ask me about **AWS,Wordpress, Hosting**
 
